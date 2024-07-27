@@ -1,0 +1,5 @@
+{
+    "rewrites": [
+      { "source": "/(.*)", "destination": "https://aniwatch-api-woad-five.vercel.app/$1" }
+    ]
+  }
